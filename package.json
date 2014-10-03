@@ -22,7 +22,7 @@
     },
     "homepage": "https://github.com/patrick-steele-idem/browser-refresh-taglib",
     "dependencies": {
-        "raptor-dust": "^0.3.8-beta"
+        "raptor-dust": "^1"
     },
     "version": "1.0.1"
 }
