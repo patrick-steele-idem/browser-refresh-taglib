@@ -20,7 +20,7 @@ npm install browser-refresh-taglib --save
     <body>
         ...
         
-        <browser-refresh enabled="true"/>
+        <browser-refresh/>
     </body>
 </html>
 ```
